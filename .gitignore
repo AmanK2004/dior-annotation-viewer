@@ -1,0 +1,27 @@
+# Ignore all JPEGs and XMLs
+JPEGImages-test/*
+Annotations/*
+
+# EXCEPT: Keep these 10 samples
+!JPEGImages-test/11726.jpg
+!JPEGImages-test/11727.jpg
+!JPEGImages-test/11728.jpg
+!JPEGImages-test/11729.jpg
+!JPEGImages-test/11730.jpg
+!JPEGImages-test/11731.jpg
+!JPEGImages-test/11732.jpg
+!JPEGImages-test/11733.jpg
+!JPEGImages-test/11734.jpg
+!JPEGImages-test/11735.jpg
+
+!Annotations/11726.xml
+!Annotations/11727.xml
+!Annotations/11728.xml
+!Annotations/11729.xml
+!Annotations/11730.xml
+!Annotations/11731.xml
+!Annotations/11732.xml
+!Annotations/11733.xml
+!Annotations/11734.xml
+!Annotations/11735.xml
+
